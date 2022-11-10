@@ -1,5 +1,7 @@
 # colorpicker
-[**visit here**]([https:///](https://raj2300.github.io/colorpicker/))
+get interesting color pallets with this web app
+
+[**visit here**]([https:///](https://raj2300.github.io/colorpicker/)
 
 
 
@@ -11,5 +13,5 @@ DARK MODE ENABLED
 ![Screenshot_2021-01-01 Color Picker(2)](https://user-images.githubusercontent.com/69300666/103451254-63d9c480-4c76-11eb-8f1f-cfbf4df74096.png)
 
 
-
+[**visit here**]([https:///](https://raj2300.github.io/colorpicker/)
 
